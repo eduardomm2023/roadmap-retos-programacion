@@ -2,7 +2,7 @@
     <img src ="./Images/header.jpg">
 </p>
 <p align = "center">
-    <img src = "https://retosdeprogramacion.com">
+    <src = "https://retosdeprogramacion.com">
 </p>
 
 ![](nuevo_repositorio1.png)  <img src = ">
