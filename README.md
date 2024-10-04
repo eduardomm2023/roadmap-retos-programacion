@@ -1,9 +1,8 @@
 <p align = "center">
     <img src ="./Images/header.jpg">
 </p>
-<p align = "center">
-    <a href = "https://retosdeprogramacion.com"></a>
-</p>
+
+#### [https://retosdeprogramacion.com](https://retosdeprogramacion.com)
 
 # Roadmap retos de programación semanales 2024
 
