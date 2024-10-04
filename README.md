@@ -1,4 +1,7 @@
-![](./Images/header.jpg">)("https://retosdeprogramacion.com")
+<p align = "center">
+    <img(./Images/header.jpg">
+    <img src = "https://retosdeprogramacion.com">
+</p>
 ![](nuevo_repositorio1.png)
 # Roadmap retos de programación semanales 2024
 
