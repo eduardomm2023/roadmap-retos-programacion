@@ -1,4 +1,6 @@
-![https://retosdeprogramacion.com](./Images/header.jpg)
+<p align = "center">
+    <img src = "https://retosdeprogramacion.com](./Images/header.jpg">
+</p>
 
 # Roadmap retos de programación semanales 2024
 
