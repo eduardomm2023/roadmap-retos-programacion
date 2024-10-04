@@ -1,8 +1,8 @@
 <p align = "center">
-    <img(./Images/header.jpg">
-    <img src = "https://retosdeprogramacion.com">
+    <img src ="./Images/header.jpg">
 </p>
-![](nuevo_repositorio1.png)
+
+![](nuevo_repositorio1.png)  <img src = "https://retosdeprogramacion.com">
 # Roadmap retos de programación semanales 2024
 
 
